@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan (@lazyrootkit)
 - 👀 I’m interested in web development, games, cyber sec, cycling
-- 🌱 I’m currently learning java fullstack development
+- 🌱 I’m currently learning java fullstack development @ neue fische bootcamp
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
