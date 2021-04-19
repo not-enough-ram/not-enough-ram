@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonathan (@lazyrootkit)
+- 👋 Hi, I’m Jonathan (@not-enough-ram)
 - 👀 I’m interested in web development, games, cyber sec, cycling
 - 🌱 I’m currently learning java fullstack development @ neue fische bootcamp
 - 💞️ I’m looking to collaborate on 
