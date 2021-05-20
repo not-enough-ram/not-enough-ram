@@ -1,4 +1,4 @@
-- ![](https://img.shields.io/badge/<code>-<java>-informational?style=flat&logo=<java>&logoColor=white&color=2bbc8a)
+(https://img.shields.io/static/v1?label=<code>&message=<java>&color=<COLOR>?style=flat&logo=java)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=not-enough-ram&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
